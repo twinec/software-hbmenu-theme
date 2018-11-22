@@ -1,9 +1,8 @@
 # software-hbmenu-theme
 this is a custom theme I made.
-here is what it looks like:
-dark theme:
+here is what it looks like with the dark theme:
 ![alt text](https://github.com/twinec/software-hbmenu-theme/blob/master/2018112117333800-DB1426D1DFD034027CECDE9C2DD914B8.jpg)
-light theme:
+and here is what it looks like with the light theme:
 ![alt text](https://github.com/twinec/software-hbmenu-theme/blob/master/2018112117335000-DB1426D1DFD034027CECDE9C2DD914B8.jpg)
 # how to install
 ## hbmenu v2.0
