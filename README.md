@@ -1,5 +1,5 @@
 # software-hbmenu-theme
-this is a custom theme I made.
+this is a custom theme I made. feel free to edit it as much as you like or fork it. 
 here is what it looks like with the dark theme:
 ![alt text](https://github.com/twinec/software-hbmenu-theme/blob/master/2018112117333800-DB1426D1DFD034027CECDE9C2DD914B8.jpg)
 and here is what it looks like with the light theme:
